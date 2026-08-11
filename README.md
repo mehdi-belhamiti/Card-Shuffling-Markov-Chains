@@ -3,6 +3,7 @@
 <img width="1361" height="762" alt="image" src="https://github.com/user-attachments/assets/b31509ba-df1b-40a9-9e42-00136b1735f6" />
 
 
+
 This repository contains a mathematical modeling project focusing on the efficiency of different card shuffling techniques. The project was implemented in **Python** and take part of the module **Introduction to research** during my Double Degree in Mathematics and Economics at University Paris-Saclay
 
 We had an oral of one hour with a jury, including a presentation of the results and a precise question-and-answer session. We based our project on the researches of Persi Diaconis
