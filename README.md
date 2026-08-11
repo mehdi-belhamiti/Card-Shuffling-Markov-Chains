@@ -1,6 +1,7 @@
 # Card Shuffling and Markov Chains
 
-<img width="1361" height="772" alt="image" src="https://github.com/user-attachments/assets/71d232a4-8c70-42a0-8ab9-7854f0e37f12" />
+<img width="1361" height="767" alt="image" src="https://github.com/user-attachments/assets/ac4d55ad-41a1-42a5-8178-bc562ed75529" />
+
 
 
 This repository contains a mathematical modeling project focusing on the efficiency of different card shuffling techniques. The project was implemented in **Python** and take part of the module **Introduction to research** during my Double Degree in Mathematics and Economics at University Paris-Saclay
