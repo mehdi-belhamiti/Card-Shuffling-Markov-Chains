@@ -1,5 +1,8 @@
 # Card Shuffling and Markov Chains
 
+<img width="1361" height="772" alt="image" src="https://github.com/user-attachments/assets/71d232a4-8c70-42a0-8ab9-7854f0e37f12" />
+
+
 This repository contains a mathematical modeling project focusing on the efficiency of different card shuffling techniques. The project was implemented in **Python** and take part of the module **Introduction to research** during my Double Degree in Mathematics and Economics at University Paris-Saclay
 
 We had an oral of one hour with a jury, including a presentation of the results and a precise question-and-answer session. We based our project on the researches of Persi Diaconis
@@ -19,6 +22,9 @@ The main goal of this analysis is to determine the precise number of shuffles re
 * **Variation Distance** : Measuring how close the deck distribution is to a perfectly uniform distribution after $n$ shuffles
 * **Mixing Time** : Demonstrating that for a deck of $N$ cards, it takes approximately $N \log (N$) shuffles to reach a well-mixed state (around 360 shuffles for 52 cards using insertion)
 * **Riffle Shuffle** : Analysis of the most common shuffling method, showed it is highly efficient and requires only about 8 to 9 shuffles for a 52-card deck
+
+<img width="1628" height="811" alt="image" src="https://github.com/user-attachments/assets/eefe58b2-0d30-4f03-9bf4-ec864f0dc265" />
+
 
 ## Technologies
 
