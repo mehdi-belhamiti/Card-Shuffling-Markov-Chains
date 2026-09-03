@@ -15,7 +15,7 @@ This project was made with Astrid CARBELO and Selima KLIBI, our goal was to work
 The main goal of this analysis is to determine the precise number of shuffles required to achieve a perfectly "random" deck of cards. The project models card shuffling as a sequence of permutations using **Markov Chains**
 
 
-[📖 Click here to read the full report in french (PDF)](https://github.com/mehdi-belhamiti/Card-Shuffling-Markov-Chains/blob/main/Projet%20Battage%20de%20Cartes%20-%20Maths.pdf)
+[Click here to read the full report in french (PDF)](https://github.com/mehdi-belhamiti/Card-Shuffling-Markov-Chains/blob/main/Projet%20Battage%20de%20Cartes%20-%20Maths.pdf)
 
 ### Key Concepts Explored :
 
